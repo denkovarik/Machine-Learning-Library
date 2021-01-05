@@ -34,6 +34,16 @@ This library was developed and tested on the Linux Command line in Ubuntu 20.04
 ### Optional Software for Windows Users
 * Xming
    * X-server package for displaying platform on windows
+   
+### Clone the Repo
+* SSH
+```
+git clone git@github.com:denkovarik/Machine-Learning-Library.git
+```
+* HTTPS
+```
+git clone https://github.com/denkovarik/Machine-Learning-Library.git
+```
 
 ## Testing
 Testing was only completed for the Perceptron and K Nearest Neighbors modules. You can run the tests by running the following command.
@@ -42,27 +52,27 @@ Testing was only completed for the Perceptron and K Nearest Neighbors modules. Y
 ```
 
 ## Usage
-* Run All Demos
+### Run All Demos
 ```
 ./runAllDemos.sh
 ```
-* Run the Perceptron Module Demo
+### Run the Perceptron Module Demo
 ```
 python3 perceptronDemo.py
 ```
-* Run the Linear Regression Module Demo
+### Run the Linear Regression Module Demo
 ```
 python3 linearRegressionDemo.py
 ```
-* Run the Logistic Regression Module Demo
+### Run the Logistic Regression Module Demo
 ```
 python3 logisticRegressionDemo.py
 ```
-* Run the K Nearest Neighbors Module Demo
+### Run the K Nearest Neighbors Module Demo
 ```
 python kNearestNeighborsDemo.py
 ```
-* Run the Axis Aligned Rectangles Module Demo
+### Run the Axis Aligned Rectangles Module Demo
 ```
 python3 axisAlignedRectangleEx.py
 ```
