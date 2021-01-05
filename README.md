@@ -89,5 +89,5 @@ Kalu, D. P. C. (2020, October 14). How to Implement Logistic Regression with Pyt
 
 Brownlee, J. (2016, October 30). How To Implement Logistic Regression From Scratch in Python. Machine Learning Mastery. https://machinelearningmastery.com/implement-logistic-regression-stochastic-gradient-descent-scratch-python/
 
-https://www.facebook.com/jason.brownlee.39. (2018, April 14). Tutorial To Implement k-Nearest Neighbors in Python From Scratch. Machine Learning Mastery. https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
+Brownlee, J.. (2018, April 14). Tutorial To Implement k-Nearest Neighbors in Python From Scratch. Machine Learning Mastery. https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
 
