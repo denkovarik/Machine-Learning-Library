@@ -79,4 +79,6 @@ python3 axisAlignedRectangleEx.py
 
 ## Credits
 * Dennis Kovarik 
-* South Dakota School of Mines and Technology
+
+## References
+(2019). UNDERSTANDING MACHINE LEARNING FROM THEORY TO ALGORITHMS [Review of UNDERSTANDING MACHINE LEARNING FROM THEORY TO ALGORITHMS]. CAMBRIDGE UNIVERSITY PRESS. (Original work published 2014)
