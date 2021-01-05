@@ -2,7 +2,6 @@
 # Author: Dennis Kovarik
 # Purpose: Holds Machine Learning Modules
 
-import cvxopt
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
