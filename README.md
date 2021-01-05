@@ -36,6 +36,8 @@ This library was developed and tested on the Linux Command line in Ubuntu 20.04
    * X-server package for displaying platform on windows
 
 ## Testing
+Testing was only completed for the Perceptron and K Nearest Neighbors modules. You can run the tests by running the following command.
+* '''./testing/runTests.sh'''
 
 ## Usage
 
