@@ -82,3 +82,12 @@ python3 axisAlignedRectangleEx.py
 
 ## References
 (2019). UNDERSTANDING MACHINE LEARNING FROM THEORY TO ALGORITHMS [Review of UNDERSTANDING MACHINE LEARNING FROM THEORY TO ALGORITHMS]. CAMBRIDGE UNIVERSITY PRESS. (Original work published 2014)
+
+Multiple Linear Regression using OLS and gradient descent. (2019, July 22). AI ASPIRANT. https://aiaspirant.com/multiple-linear-regression/
+
+Kalu, D. P. C. (2020, October 14). How to Implement Logistic Regression with Python. Neuraspike. https://neuraspike.com/blog/logistic-regression-python-tutorial/
+
+Brownlee, J. (2016, October 30). How To Implement Logistic Regression From Scratch in Python. Machine Learning Mastery. https://machinelearningmastery.com/implement-logistic-regression-stochastic-gradient-descent-scratch-python/
+
+https://www.facebook.com/jason.brownlee.39. (2018, April 14). Tutorial To Implement k-Nearest Neighbors in Python From Scratch. Machine Learning Mastery. https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
+
