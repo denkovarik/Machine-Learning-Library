@@ -42,6 +42,30 @@ Testing was only completed for the Perceptron and K Nearest Neighbors modules. Y
 ```
 
 ## Usage
+* Run All Demos
+```
+./runAllDemos.sh
+```
+* Run the Perceptron Module Demo
+```
+python3 perceptronDemo.py
+```
+* Run the Linear Regression Module Demo
+```
+python3 linearRegressionDemo.py
+```
+* Run the Logistic Regression Module Demo
+```
+python3 logisticRegressionDemo.py
+```
+* Run the K Nearest Neighbors Module Demo
+```
+python kNearestNeighborsDemo.py
+```
+* Run the Axis Aligned Rectangles Module Demo
+```
+python3 axisAlignedRectangleEx.py
+```
 
 ## Credits
 * Dennis Kovarik 
