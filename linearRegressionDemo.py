@@ -6,7 +6,6 @@
 
 from ML import LinearRegression
 import numpy as np
-from numpy.linalg import inv
 from sklearn.datasets import make_regression
 from utils import *
 import matplotlib.pyplot as plt
