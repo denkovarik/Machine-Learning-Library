@@ -1,9 +1,9 @@
 # Machine Learning Library
 
 <p align="center">
-  <img src="https://github.com/denkovarik/Machine-Learning-Library/blob/master/images/Logistic_Regression_Decision_Boundary_Ex1.png" width="350" title="hover text">
-  <img src="https://github.com/denkovarik/Machine-Learning-Library/blob/master/images/Linear_Regression_Regression_Ex4.png" width="350" title="hover text">
-  <img src="https://github.com/denkovarik/Machine-Learning-Library/blob/master/images/KNN_Decision_Boundary_k%3D5.png" width="350" title="hover text">
+  <img src="https://github.com/denkovarik/Machine-Learning-Library/blob/master/images/Logistic_Regression_Decision_Boundary_Ex1.png" width="350" title="Logistic Regression Decision Boundary">
+  <img src="https://github.com/denkovarik/Machine-Learning-Library/blob/master/images/Linear_Regression_Regression_Ex4.png" width="350" title="Multiple Regression Plane">
+  <img src="https://github.com/denkovarik/Machine-Learning-Library/blob/master/images/KNN_Decision_Boundary_k%3D5.png" width="350" title="K Nearest Neighbors Decision Boundaries">
 </p>
 
 ## Introduction
