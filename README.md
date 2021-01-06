@@ -86,7 +86,7 @@ python kNearestNeighborsDemo.py
 python3 axisAlignedRectangleEx.py
 ```
 
-## Credits
+## Author
 * Dennis Kovarik 
 
 ## References
