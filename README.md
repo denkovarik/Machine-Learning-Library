@@ -15,7 +15,7 @@ This project consists of a collection of machine learning modules written in Pyt
 * K-Nearest Neighbor
 * Axis Aligned Rectangles  
 
-All demos include in this repo runs the above modules on subsets of the Iris Dataset.
+All demonstrations included in this repository runs the above modules on subsets of the Iris Dataset.
 
 ## Setup
 This library was developed and tested on the Linux Command line in Ubuntu 20.04
