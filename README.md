@@ -64,6 +64,7 @@ cd testing/
 
 ## Usage
 ### Run All Demos
+Assuming your current directory is in the project root directory, 'Machine-Learning-Library', you can run the demos by using the following commands.
 ```
 ./runAllDemos.sh
 ```
