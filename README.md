@@ -1,4 +1,7 @@
 # Machine Learning Library
+![alt text](https://github.com/denkovarik/Machine-Learning-Library/blob/master/images/Logistic_Regression_Decision_Boundary_Ex1.png)
+![alt text](https://github.com/denkovarik/Machine-Learning-Library/blob/master/images/Linear_Regression_Regression_Ex4.png)
+![alt text](https://github.com/denkovarik/Machine-Learning-Library/blob/master/images/KNN_Decision_Boundary_k%3D5.png)
 
 ## Introduction
 This project consists of a collection of well known and commonly used machine learning modules written in Python. My name is Dennis Kovarik, and one of my interests is in machine learning. Machine learning is the development and application of algorithms that allow computers to find patterns in large datasets to make predictions based on them. Machine learning has many applications accross multiple industries, and it can allow companies and organizations to provide better products and services by  leveraging the huge amounts of data available to them. To learn more about this subject, I developed this library of machine learning modules. This collection consists of the following modules: 
