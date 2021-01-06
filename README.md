@@ -7,12 +7,15 @@
 </p>
 
 ## Introduction
-This project consists of a collection of well known and commonly used machine learning modules written in Python. My name is Dennis Kovarik, and one of my interests is in machine learning. Machine learning is the development and application of algorithms that allow computers to find patterns in large datasets to make predictions based on them. Machine learning has many applications accross multiple industries, and it can allow companies and organizations to provide better products and services by  leveraging the huge amounts of data available to them. To learn more about this subject, I developed this library of machine learning modules. This collection consists of the following modules: 
+This project consists of a collection of machine learning modules written in Python. My name is Dennis Kovarik, and one of my interests is in machine learning. Machine learning is the development and application of algorithms that allow computers to find patterns in large datasets to make predictions based on them. Machine learning has many applications accross multiple industries, and it can allow companies and organizations to provide better products and services by  leveraging the huge amounts of data available to them. To learn more about this subject, I developed this library of machine learning modules. This collection consists of the following modules: 
+
 * Perceptron
 * Linear Regression
 * Logistic Regression
 * K-Nearest Neighbor
-* Axis Aligned Rectangles
+* Axis Aligned Rectangles  
+
+All demos include in this repo runs the above modules on subsets of the Iris Dataset.
 
 ## Setup
 This library was developed and tested on the Linux Command line in Ubuntu 20.04
