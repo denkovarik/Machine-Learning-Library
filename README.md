@@ -56,9 +56,10 @@ git clone https://github.com/denkovarik/Machine-Learning-Library.git
 ```
 
 ## Testing
-Testing was only completed for the Perceptron and K Nearest Neighbors modules. You can run these tests by running the following command.
+Testing was only completed for the Perceptron and K Nearest Neighbors modules. You should be able to run the tests from any directory. You can run these tests by running the following command.
 ```
-./testing/runTests.sh
+cd testing/
+./runTests.sh
 ```
 
 ## Usage
